@@ -11,13 +11,13 @@ Features:
   <li> <b>View Collection of Books</b> </li>
   <li> <b>Records of book issue, new book entry, return books</b> </li>
 </ul>
-<b>Technology Stack</b>
-Frontend: Java Swing for the graphical user interface.
-Backend: MySQL database for storing and retrieving library data.
-Integration: JDBC for seamless communication between Java and MySQL.
+<b>Technology Stack:</b><br><br>
+Frontend: Java Swing for the graphical user interface.<br>
+Backend: MySQL database for storing and retrieving library data.<br>
+Integration: JDBC for seamless communication between Java and MySQL.<br><br>
 
-<b>Acknowledgments</b>
-This project was developed as a part of the undergraduate degree program in collaboration with Noakhali Science and Technology University.
+<b>Acknowledgments:</b><br><br>
+This project was developed as a part of the undergraduate degree program in collaboration with Noakhali Science and Technology University.<br>
 
 Feel free to explore the codebase, report issues, and contribute to the growth of this Library Management System!
 
